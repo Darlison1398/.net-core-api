@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KDqETadr/48=",
+  "dgSpecHash": "O+wVt9hrj7Q=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Drsil\\CadastroUsuarioApi\\CadastroUsuarioApi.csproj",
+  "projectFilePath": "C:\\C# .Net\\CadastroUsuarioApi\\CadastroUsuarioApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Drsil\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Drsil\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",

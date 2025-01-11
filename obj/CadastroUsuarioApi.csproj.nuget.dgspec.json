@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Drsil\\CadastroUsuarioApi\\CadastroUsuarioApi.csproj": {}
+    "C:\\C# .Net\\CadastroUsuarioApi\\CadastroUsuarioApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Drsil\\CadastroUsuarioApi\\CadastroUsuarioApi.csproj": {
+    "C:\\C# .Net\\CadastroUsuarioApi\\CadastroUsuarioApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Drsil\\CadastroUsuarioApi\\CadastroUsuarioApi.csproj",
+        "projectUniqueName": "C:\\C# .Net\\CadastroUsuarioApi\\CadastroUsuarioApi.csproj",
         "projectName": "CadastroUsuarioApi",
-        "projectPath": "C:\\Users\\Drsil\\CadastroUsuarioApi\\CadastroUsuarioApi.csproj",
+        "projectPath": "C:\\C# .Net\\CadastroUsuarioApi\\CadastroUsuarioApi.csproj",
         "packagesPath": "C:\\Users\\Drsil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Drsil\\CadastroUsuarioApi\\obj\\",
+        "outputPath": "C:\\C# .Net\\CadastroUsuarioApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Drsil\\AppData\\Roaming\\NuGet\\NuGet.Config"
