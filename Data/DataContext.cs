@@ -9,5 +9,6 @@ namespace CadastroUsuarioApi.Data
 
         public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<Produto> Produtos { get; set; }
+        public DbSet<Item> Itens { get; set; }
     }
 }
